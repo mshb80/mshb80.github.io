@@ -1,0 +1,32 @@
+{
+  "name": "گلزار شهدای کرمان",
+  "short_name": "گلزار شهدای کرمان",
+  "description": "سامانه جستجوی مزار شهدای گلزار شهداي کرمان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6ec",
+  "theme_color": "#0e6b5c",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
